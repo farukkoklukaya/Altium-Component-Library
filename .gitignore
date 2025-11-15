@@ -1,0 +1,27 @@
+# ==========================================================
+# .gitignore for Altium Designer Projects
+# ==========================================================
+
+# Ignore History and backup files
+History/
+*.~*
+*.$$$
+*.bak
+*.pcblib.~
+*.schlib.~
+
+# Ignore generated output files and folders
+Project Outputs for*/
+*.out
+*.cam
+*.gbr
+*.drc
+*.csv
+*.zip
+
+# Ignore user-specific and temporary files
+*.PrjPcb.TMP
+*.DSN
+*.ini
+AdvPCB.dft
+AdvSch.dft
