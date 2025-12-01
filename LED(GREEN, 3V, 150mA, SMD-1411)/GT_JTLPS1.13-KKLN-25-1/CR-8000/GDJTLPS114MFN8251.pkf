@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GDJTLPS114MFN8251"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GDJTLPS114MFN8251")
+        (spec "default")
+    )
+)

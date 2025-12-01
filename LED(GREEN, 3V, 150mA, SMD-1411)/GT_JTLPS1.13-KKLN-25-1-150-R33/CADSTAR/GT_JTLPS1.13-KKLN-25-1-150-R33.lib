@@ -1,0 +1,15 @@
+.GT_JTLPS1.13-KKLN-25-1-150-R33 :1 ;High Power LEDs - Single Colour True Green DURIS E 2835
+GTJTLPS113KKLN251150R33
+*STM LED
+*NGS
+*PLB 1="K_1" 2="A_1" 3="K_2" 4="A_2"
+*MXP 4
+*DFN GT_JTLPS1.13-KKLN-25-1-150-R33
+~!Mouser Part Number (720-GTJTLPS113A1047)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/GT-JTLPS113-KKLN-25-1-150-R33?qs=T94vaHKWudSqdWcctUSVlg%3D%3D)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (GT JTLPS1.13-KKLN-25-1-150-R33)
+~!Link Datasheet (https://www.osram.com/media/resource/hires/osram-dam-14476148/GT+JTLPS1.13_EN.pdf)
+~!Height (0.8mm)
+GT_JTLPS1.13-KKLN-25-1-150-R33
+1.1!U 2.1!U 3.1!U 4.1!U 

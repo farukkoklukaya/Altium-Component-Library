@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GT_JTLPS1.13_KKLN_25_1_150_R33'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "GT JTLPS1.13-KKLN-25-1-150-R33" (!) = "", "GTJTLPS113KKLN251150R33", "Other", "720-GTJTLPS113A1047", "https://www.mouser.co.uk/ProductDetail/OSRAM-Opto-Semiconductors/GT-JTLPS113-KKLN-25-1-150-R33?qs=T94vaHKWudSqdWcctUSVlg%3D%3D", "High Power LEDs - Single Colour True Green DURIS E 2835", "https://www.osram.com/media/resource/hires/osram-dam-14476148/GT+JTLPS1.13_EN.pdf", "0.8 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=ams OSRAM
+PartNumber=GT JTLPS1.13-KKLN-25-1
+PartCategory=LED
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2023-07-18 09:27:29
+Downloaded=2025-12-01 14:46:37
+3D=Y

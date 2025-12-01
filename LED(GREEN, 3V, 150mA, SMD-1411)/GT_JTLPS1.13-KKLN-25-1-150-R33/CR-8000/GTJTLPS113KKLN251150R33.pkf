@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "GTJTLPS113KKLN251150R33"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "GTJTLPS113KKLN251150R33")
+        (spec "default")
+    )
+)

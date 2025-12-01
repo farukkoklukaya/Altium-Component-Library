@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GT_JTLPS1.13_KKLN_25_1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ams OSRAM", "GT JTLPS1.13-KKLN-25-1" (!) = "", "GDJTLPS114MFN8251", "Other", "720-GTJTLPS113A1047", "https://www.mouser.co.uk/ProductDetail/ams-OSRAM/GT-JTLPS1.13-KKLN-25-1?qs=CiayqK2gdcJTqiM6XRwQGg%3D%3D", "High Power LEDs - Single Color GT JTLPS1.13", "https://media.osram.info/media/resource/hires/osram-dam-14476148/GT+JTLPS1.13_EN.pdf", "0.8 mm"
+END_PART
+
+END.

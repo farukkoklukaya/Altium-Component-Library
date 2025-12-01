@@ -1,0 +1,16 @@
+.GT_JTLPS1.13-KKLN-25-1 :1 ;High Power LEDs - Single Color GT JTLPS1.13
+GDJTLPS114MFN8251
+*STM LED
+*NGS
+*PLB 1="K_1" 2="A_1" 3="K_2" 4="A_2"
+*MXP 4
+*DFN GT_JTLPS1.13-KKLN-25-1
+~!Mouser Part Number (720-GTJTLPS113A1047)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ams-OSRAM/GT-JTLPS1.13-KKLN-25-1?qs=CiayqK2gdcJTqiM6XRwQGg%3D%3D)
+~!Manufacturer_Name (ams OSRAM)
+~!Manufacturer_Part_Number (GT JTLPS1.13-KKLN-25-1)
+~!Link Datasheet (https://media.osram.info/media/resource/hires/osram-dam-14476148/GT+JTLPS1.13_EN.pdf)
+~!Height (0.8mm)
+~!3D_Model (GT_JTLPS1.13-KKLN-25-1)
+GT_JTLPS1.13-KKLN-25-1
+1.1!U 2.1!U 3.1!U 4.1!U 
