@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TS02_66_50_BK_260_LCR_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "TS02-66-50-BK-260-LCR-D" (!) = "", "TS026650BK260LCRD", "Other", "179-TS026650BK260LCR", "https://www.mouser.co.uk/ProductDetail/Same-Sky/TS02-66-50-BK-260-LCR-D?qs=A6eO%252BMLsxmSvgpm8sQwHAQ%3D%3D", "6 x 6 mm, 5 mm Actuator Height, 260 gf, Black, Long Crimped, Through Hole, SPST, Tactile Switch", "https://www.sameskydevices.com/product/resource/ts02.pdf", "5.2 mm"
+END_PART
+
+END.

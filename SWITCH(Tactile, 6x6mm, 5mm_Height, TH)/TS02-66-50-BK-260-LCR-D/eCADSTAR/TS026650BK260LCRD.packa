@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TS02-66-50-BK-260-LCR-D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-09-12-04:06:33)
+    (mountForm default
+        (footprintRef "TS026650BK260LCRD")
+        (spec "System")
+    )
+)
